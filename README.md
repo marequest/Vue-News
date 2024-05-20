@@ -22,4 +22,4 @@ npm run serve
 ```
 
 
-> Racunarski fakultet, computer science
+> Racunarski fakultet, computer science - Marko Jovicic, marequest123@gmail.com
