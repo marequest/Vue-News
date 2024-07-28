@@ -15,11 +15,11 @@ Frontend part is Vue based and fetches data from backend server.
   - Vue Bootstrap
 
 ## Running:
-Set up password in path `Baza RAF News/src/main/java/rs/raf/demo/repositories/MySqlAbstractRepository.java`
+Set up db password in path `.../repositories/MySqlAbstractRepository.java`
 ```
 npm install
 npm run serve
 ```
 
 
-> Racunarski fakultet, computer science - Marko Jovicic, marequest123@gmail.com
+> Racunarski fakultet, computer science - Marko Jovicic, markojovicic.rs@gmail.com
